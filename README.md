@@ -32,3 +32,5 @@ pip install -r requirements.txt
 python3 apimapi.py --url https://techcrunch.com/wp-json/tc/v1/ --timesec 1 --depth 3 --output api_map.json
 ```
 
+![Example use amd output](https://github.com/DeadmanXXXII/APImapi/raw/main/Screenshot_20240813-205512.png)
+
