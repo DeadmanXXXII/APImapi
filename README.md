@@ -25,6 +25,10 @@ API mapper
 To run this script, you would use a command like:
 
 ```bash
+git clone https://github.com/DeadmanXXXII/APImapi.git
+```
+
+```bash
 pip install -r requirements.txt
 ```
 
